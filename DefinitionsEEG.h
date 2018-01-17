@@ -1,4 +1,4 @@
-/*
+/*This is a test comment on the code for GitHub*/
  * DefinitionsEEG.h
  *
  * Created: 4/4/2017 5:46:27 PM
@@ -50,3 +50,4 @@
 
 
 #endif /* DEFINITIONSEEG_H_ */
+
